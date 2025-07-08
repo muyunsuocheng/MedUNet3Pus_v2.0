@@ -1,0 +1,54 @@
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割异常: Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割异常: Given groups=1, weight of size [128, 384, 3, 3], expected input[1, 256, 64, 64] to have 384 channels, but got 256 channels instead
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+分割结果数量: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6
+分割结果数量: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6
+分割结果数量: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6
+segment_test_set被调用, test_data_dir=C:/MedUNet3Plus-main/data/test_set, model_name=UNet3Plus
+测试集样本数: 6
+分割结果数量: 6

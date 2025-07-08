@@ -1,0 +1,1 @@
+This project aims to process medical images by using UNet3+ and has the following functions: It can batch transpose the DICOM format and standardize the generation of datasets; Visualize the parameters of the network model and update them; Visualize the training iteration process and save the optimal training results.
